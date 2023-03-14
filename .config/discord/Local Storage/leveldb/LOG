@@ -1,0 +1,33 @@
+2023/03/13-10:30:01.589 1255 Reusing MANIFEST /home/tagir/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2023/03/13-10:30:01.589 1255 Recovering log #4
+2023/03/13-10:30:01.607 1255 Reusing old log /home/tagir/.config/discord/Local Storage/leveldb/000004.log 
+2023/03/13-11:05:07.285 1257 Level-0 table #8: started
+2023/03/13-11:05:07.325 1257 Level-0 table #8: 65210 bytes OK
+2023/03/13-11:05:07.364 1257 Delete type=0 #4
+2023/03/13-13:34:23.223 1257 Level-0 table #10: started
+2023/03/13-13:34:23.280 1257 Level-0 table #10: 11594 bytes OK
+2023/03/13-13:34:23.314 1257 Delete type=0 #7
+2023/03/13-14:07:06.104 73ab Level-0 table #12: started
+2023/03/13-14:07:06.150 73ab Level-0 table #12: 67724 bytes OK
+2023/03/13-14:07:06.186 73ab Delete type=0 #9
+2023/03/13-17:09:09.904 fcd7 Level-0 table #14: started
+2023/03/13-17:09:09.942 fcd7 Level-0 table #14: 10581 bytes OK
+2023/03/13-17:09:09.979 fcd7 Delete type=0 #11
+2023/03/13-18:54:45.948 fcd7 Level-0 table #16: started
+2023/03/13-18:54:46.004 fcd7 Level-0 table #16: 1450929 bytes OK
+2023/03/13-18:54:46.043 fcd7 Delete type=0 #13
+2023/03/13-18:54:46.043 fcd7 Compacting 4@0 + 1@1 files
+2023/03/13-18:54:46.104 fcd7 Generated table #17@0: 29 keys, 1516497 bytes
+2023/03/13-18:54:46.104 fcd7 Compacted 4@0 + 1@1 files => 1516497 bytes
+2023/03/13-18:54:46.143 fcd7 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/03/13-18:54:46.143 fcd7 Delete type=2 #12
+2023/03/13-18:54:46.143 fcd7 Delete type=2 #10
+2023/03/13-18:54:46.143 fcd7 Delete type=2 #14
+2023/03/13-18:54:46.143 fcd7 Delete type=2 #8
+2023/03/13-18:54:46.143 fcd7 Delete type=2 #16
+2023/03/13-18:56:56.514 fcd7 Level-0 table #19: started
+2023/03/13-18:56:56.561 fcd7 Level-0 table #19: 73013 bytes OK
+2023/03/13-18:56:56.597 fcd7 Delete type=0 #15
+2023/03/14-14:39:45.038 30163 Level-0 table #21: started
+2023/03/14-14:39:45.089 30163 Level-0 table #21: 1454685 bytes OK
+2023/03/14-14:39:45.122 30163 Delete type=0 #18

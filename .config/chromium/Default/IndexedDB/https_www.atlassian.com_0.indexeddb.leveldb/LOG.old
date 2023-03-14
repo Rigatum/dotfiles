@@ -1,0 +1,7 @@
+2023/03/14-17:05:48.409 4b3 Reusing MANIFEST /home/tagir/.config/chromium/Default/IndexedDB/https_www.atlassian.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/03/14-17:05:48.409 4b3 Recovering log #3
+2023/03/14-17:05:48.459 4b3 Reusing old log /home/tagir/.config/chromium/Default/IndexedDB/https_www.atlassian.com_0.indexeddb.leveldb/000003.log 
+2023/03/14-17:05:56.854 5e8c Level-0 table #5: started
+2023/03/14-17:05:56.903 5e8c Level-0 table #5: 108648 bytes OK
+2023/03/14-17:05:56.926 5e8c Delete type=0 #3
+2023/03/14-17:05:56.930 5e8c Manual compaction at level-0 from (begin) .. (end); will stop at (end)

@@ -1,0 +1,35 @@
+2023/03/14-15:59:22.219 3 Reusing MANIFEST /home/tagir/.config/chromium/Default/Local Storage/leveldb/MANIFEST-000001
+2023/03/14-15:59:22.479 3 Recovering log #333
+2023/03/14-15:59:22.627 3 Reusing old log /home/tagir/.config/chromium/Default/Local Storage/leveldb/000333.log 
+2023/03/14-16:02:29.962 3 Level-0 table #339: started
+2023/03/14-16:02:30.005 3 Level-0 table #339: 21811 bytes OK
+2023/03/14-16:02:30.042 3 Delete type=0 #333
+2023/03/14-16:14:55.018 3 Level-0 table #341: started
+2023/03/14-16:14:55.071 3 Level-0 table #341: 19586 bytes OK
+2023/03/14-16:14:55.111 3 Delete type=0 #338
+2023/03/14-16:16:09.707 e Level-0 table #343: started
+2023/03/14-16:16:09.765 e Level-0 table #343: 27087 bytes OK
+2023/03/14-16:16:09.802 e Delete type=0 #340
+2023/03/14-17:11:13.330 3 Level-0 table #345: started
+2023/03/14-17:11:13.369 3 Level-0 table #345: 21594 bytes OK
+2023/03/14-17:11:13.441 3 Delete type=0 #342
+2023/03/14-17:11:13.441 3 Compacting 4@0 + 2@1 files
+2023/03/14-17:11:13.594 3 Generated table #346@0: 2375 keys, 2099885 bytes
+2023/03/14-17:11:13.670 3 Generated table #347@0: 346 keys, 857479 bytes
+2023/03/14-17:11:13.670 3 Compacted 4@0 + 2@1 files => 2957364 bytes
+2023/03/14-17:11:13.745 3 compacted to: files[ 0 2 1 0 0 0 0 ]
+2023/03/14-17:11:13.746 3 Delete type=2 #339
+2023/03/14-17:11:13.746 3 Delete type=2 #335
+2023/03/14-17:11:13.746 3 Delete type=2 #343
+2023/03/14-17:11:13.746 3 Delete type=2 #341
+2023/03/14-17:11:13.746 3 Delete type=2 #336
+2023/03/14-17:11:13.746 3 Delete type=2 #345
+2023/03/14-17:16:57.954 3 Level-0 table #349: started
+2023/03/14-17:16:57.997 3 Level-0 table #349: 18459 bytes OK
+2023/03/14-17:16:58.106 3 Delete type=0 #344
+2023/03/14-17:19:22.378 3 Level-0 table #351: started
+2023/03/14-17:19:22.426 3 Level-0 table #351: 22502 bytes OK
+2023/03/14-17:19:22.455 3 Delete type=0 #348
+2023/03/14-17:35:44.491 3 Level-0 table #353: started
+2023/03/14-17:35:44.549 3 Level-0 table #353: 24642 bytes OK
+2023/03/14-17:35:44.591 3 Delete type=0 #350

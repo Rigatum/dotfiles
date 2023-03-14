@@ -1,0 +1,621 @@
+2023-03-13T01:51:43.235Z [Modules] Modules initializing
+2023-03-13T01:51:43.235Z [Modules] Distribution: remote
+2023-03-13T01:51:43.235Z [Modules] Host updates: enabled
+2023-03-13T01:51:43.235Z [Modules] Module updates: enabled
+2023-03-13T01:51:43.235Z [Modules] Module install path: /home/tagir/.config/discord/0.0.25/modules
+2023-03-13T01:51:43.235Z [Modules] Module installed file path: /home/tagir/.config/discord/0.0.25/modules/installed.json
+2023-03-13T01:51:43.235Z [Modules] Module download path: /home/tagir/.config/discord/0.0.25/modules/pending
+2023-03-13T01:51:43.445Z [Modules] Bootstrapping...
+2023-03-13T01:51:43.446Z [Modules] Installing discord_desktop_core@0 from /opt/discord/resources/bootstrap/discord_desktop_core.zip
+2023-03-13T01:51:43.448Z [Modules] Failed installing discord_desktop_core@0: Error: ENOENT: no such file or directory, open '/opt/discord/resources/bootstrap/discord_desktop_core.zip'
+2023-03-13T01:51:43.448Z [Modules] Installing discord_erlpack@0 from /opt/discord/resources/bootstrap/discord_erlpack.zip
+2023-03-13T01:51:43.449Z [Modules] Failed installing discord_erlpack@0: Error: ENOENT: no such file or directory, open '/opt/discord/resources/bootstrap/discord_erlpack.zip'
+2023-03-13T01:51:43.449Z [Modules] Installing discord_spellcheck@0 from /opt/discord/resources/bootstrap/discord_spellcheck.zip
+2023-03-13T01:51:43.450Z [Modules] Failed installing discord_spellcheck@0: Error: ENOENT: no such file or directory, open '/opt/discord/resources/bootstrap/discord_spellcheck.zip'
+2023-03-13T01:51:43.482Z [Modules] Installing discord_utils@0 from /opt/discord/resources/bootstrap/discord_utils.zip
+2023-03-13T01:51:43.483Z [Modules] Failed installing discord_utils@0: Error: ENOENT: no such file or directory, open '/opt/discord/resources/bootstrap/discord_utils.zip'
+2023-03-13T01:51:43.508Z [Modules] Installing discord_voice@0 from /opt/discord/resources/bootstrap/discord_voice.zip
+2023-03-13T01:51:43.510Z [Modules] Failed installing discord_voice@0: Error: ENOENT: no such file or directory, open '/opt/discord/resources/bootstrap/discord_voice.zip'
+2023-03-13T01:51:43.533Z [Modules] Finished module installations. [success: 0] [failure: 5]
+2023-03-13T01:51:43.534Z [Modules] Checking for host updates.
+2023-03-13T01:51:44.558Z [Modules] Host is up to date.
+2023-03-13T01:51:44.558Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-03-13T01:51:44.765Z [Modules] Module update available: discord_desktop_core@1 [installed: 0]
+2023-03-13T01:51:44.765Z [Modules] Module update available: discord_erlpack@1 [installed: 0]
+2023-03-13T01:51:44.765Z [Modules] Module update available: discord_spellcheck@1 [installed: 0]
+2023-03-13T01:51:44.765Z [Modules] Module update available: discord_utils@1 [installed: 0]
+2023-03-13T01:51:44.765Z [Modules] Module update available: discord_voice@1 [installed: 0]
+2023-03-13T01:51:44.765Z [Modules] Fetching discord_desktop_core@1 from https://discord.com/api/modules/stable/discord_desktop_core/1
+2023-03-13T01:51:44.765Z [Modules] Streaming discord_desktop_core@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_desktop_core-1.zip
+2023-03-13T01:51:45.477Z [Modules] Streaming discord_desktop_core@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_desktop_core-1.zip: 1%
+2023-03-13T01:51:45.487Z [Modules] Streaming discord_desktop_core@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_desktop_core-1.zip: 2%
+2023-03-13T01:51:45.580Z [Modules] Streaming discord_desktop_core@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_desktop_core-1.zip: 3%
+2023-03-13T01:51:45.588Z [Modules] Streaming discord_desktop_core@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_desktop_core-1.zip: 4%
+2023-03-13T01:51:45.600Z [Modules] Streaming discord_desktop_core@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_desktop_core-1.zip: 5%
+2023-03-13T01:51:45.685Z [Modules] Streaming discord_desktop_core@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_desktop_core-1.zip: 6%
+2023-03-13T01:51:45.696Z [Modules] Streaming discord_desktop_core@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_desktop_core-1.zip: 7%
+2023-03-13T01:51:45.706Z [Modules] Streaming discord_desktop_core@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_desktop_core-1.zip: 8%
+2023-03-13T01:51:45.727Z [Modules] Streaming discord_desktop_core@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_desktop_core-1.zip: 9%
+2023-03-13T01:51:45.735Z [Modules] Streaming discord_desktop_core@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_desktop_core-1.zip: 10%
+2023-03-13T01:51:45.747Z [Modules] Streaming discord_desktop_core@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_desktop_core-1.zip: 11%
+2023-03-13T01:51:45.765Z [Modules] Streaming discord_desktop_core@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_desktop_core-1.zip: 12%
+2023-03-13T01:51:45.775Z [Modules] Streaming discord_desktop_core@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_desktop_core-1.zip: 13%
+2023-03-13T01:51:45.785Z [Modules] Streaming discord_desktop_core@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_desktop_core-1.zip: 14%
+2023-03-13T01:51:45.802Z [Modules] Streaming discord_desktop_core@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_desktop_core-1.zip: 15%
+2023-03-13T01:51:45.812Z [Modules] Streaming discord_desktop_core@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_desktop_core-1.zip: 16%
+2023-03-13T01:51:45.821Z [Modules] Streaming discord_desktop_core@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_desktop_core-1.zip: 17%
+2023-03-13T01:51:45.830Z [Modules] Streaming discord_desktop_core@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_desktop_core-1.zip: 18%
+2023-03-13T01:51:45.836Z [Modules] Streaming discord_desktop_core@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_desktop_core-1.zip: 19%
+2023-03-13T01:51:45.844Z [Modules] Streaming discord_desktop_core@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_desktop_core-1.zip: 20%
+2023-03-13T01:51:45.851Z [Modules] Streaming discord_desktop_core@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_desktop_core-1.zip: 21%
+2023-03-13T01:51:45.864Z [Modules] Streaming discord_desktop_core@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_desktop_core-1.zip: 22%
+2023-03-13T01:51:45.868Z [Modules] Streaming discord_desktop_core@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_desktop_core-1.zip: 23%
+2023-03-13T01:51:45.872Z [Modules] Streaming discord_desktop_core@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_desktop_core-1.zip: 24%
+2023-03-13T01:51:45.877Z [Modules] Streaming discord_desktop_core@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_desktop_core-1.zip: 25%
+2023-03-13T01:51:45.880Z [Modules] Streaming discord_desktop_core@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_desktop_core-1.zip: 26%
+2023-03-13T01:51:45.884Z [Modules] Streaming discord_desktop_core@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_desktop_core-1.zip: 27%
+2023-03-13T01:51:45.887Z [Modules] Streaming discord_desktop_core@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_desktop_core-1.zip: 28%
+2023-03-13T01:51:45.893Z [Modules] Streaming discord_desktop_core@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_desktop_core-1.zip: 29%
+2023-03-13T01:51:45.899Z [Modules] Streaming discord_desktop_core@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_desktop_core-1.zip: 30%
+2023-03-13T01:51:45.902Z [Modules] Streaming discord_desktop_core@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_desktop_core-1.zip: 31%
+2023-03-13T01:51:45.906Z [Modules] Streaming discord_desktop_core@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_desktop_core-1.zip: 32%
+2023-03-13T01:51:45.910Z [Modules] Streaming discord_desktop_core@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_desktop_core-1.zip: 33%
+2023-03-13T01:51:45.914Z [Modules] Streaming discord_desktop_core@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_desktop_core-1.zip: 34%
+2023-03-13T01:51:45.917Z [Modules] Streaming discord_desktop_core@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_desktop_core-1.zip: 35%
+2023-03-13T01:51:45.920Z [Modules] Streaming discord_desktop_core@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_desktop_core-1.zip: 36%
+2023-03-13T01:51:45.931Z [Modules] Streaming discord_desktop_core@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_desktop_core-1.zip: 38%
+2023-03-13T01:51:45.936Z [Modules] Streaming discord_desktop_core@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_desktop_core-1.zip: 40%
+2023-03-13T01:51:45.947Z [Modules] Streaming discord_desktop_core@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_desktop_core-1.zip: 43%
+2023-03-13T01:51:45.953Z [Modules] Streaming discord_desktop_core@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_desktop_core-1.zip: 44%
+2023-03-13T01:51:45.959Z [Modules] Streaming discord_desktop_core@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_desktop_core-1.zip: 46%
+2023-03-13T01:51:45.963Z [Modules] Streaming discord_desktop_core@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_desktop_core-1.zip: 48%
+2023-03-13T01:51:45.967Z [Modules] Streaming discord_desktop_core@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_desktop_core-1.zip: 49%
+2023-03-13T01:51:45.971Z [Modules] Streaming discord_desktop_core@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_desktop_core-1.zip: 51%
+2023-03-13T01:51:45.978Z [Modules] Streaming discord_desktop_core@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_desktop_core-1.zip: 53%
+2023-03-13T01:51:45.982Z [Modules] Streaming discord_desktop_core@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_desktop_core-1.zip: 55%
+2023-03-13T01:51:45.985Z [Modules] Streaming discord_desktop_core@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_desktop_core-1.zip: 56%
+2023-03-13T01:51:45.986Z [Modules] Streaming discord_desktop_core@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_desktop_core-1.zip: 57%
+2023-03-13T01:51:45.991Z [Modules] Streaming discord_desktop_core@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_desktop_core-1.zip: 58%
+2023-03-13T01:51:45.996Z [Modules] Streaming discord_desktop_core@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_desktop_core-1.zip: 61%
+2023-03-13T01:51:46.001Z [Modules] Streaming discord_desktop_core@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_desktop_core-1.zip: 64%
+2023-03-13T01:51:46.007Z [Modules] Streaming discord_desktop_core@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_desktop_core-1.zip: 66%
+2023-03-13T01:51:46.010Z [Modules] Streaming discord_desktop_core@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_desktop_core-1.zip: 68%
+2023-03-13T01:51:46.015Z [Modules] Streaming discord_desktop_core@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_desktop_core-1.zip: 71%
+2023-03-13T01:51:46.019Z [Modules] Streaming discord_desktop_core@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_desktop_core-1.zip: 73%
+2023-03-13T01:51:46.027Z [Modules] Streaming discord_desktop_core@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_desktop_core-1.zip: 77%
+2023-03-13T01:51:46.030Z [Modules] Streaming discord_desktop_core@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_desktop_core-1.zip: 81%
+2023-03-13T01:51:46.035Z [Modules] Streaming discord_desktop_core@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_desktop_core-1.zip: 83%
+2023-03-13T01:51:46.038Z [Modules] Streaming discord_desktop_core@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_desktop_core-1.zip: 84%
+2023-03-13T01:51:46.038Z [Modules] Streaming discord_desktop_core@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_desktop_core-1.zip: 85%
+2023-03-13T01:51:46.043Z [Modules] Streaming discord_desktop_core@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_desktop_core-1.zip: 88%
+2023-03-13T01:51:46.048Z [Modules] Streaming discord_desktop_core@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_desktop_core-1.zip: 91%
+2023-03-13T01:51:46.053Z [Modules] Streaming discord_desktop_core@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_desktop_core-1.zip: 95%
+2023-03-13T01:51:46.056Z [Modules] Streaming discord_desktop_core@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_desktop_core-1.zip: 96%
+2023-03-13T01:51:46.060Z [Modules] Streaming discord_desktop_core@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_desktop_core-1.zip: 98%
+2023-03-13T01:51:46.062Z [Modules] Streaming discord_desktop_core@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_desktop_core-1.zip: 100%
+2023-03-13T01:51:46.064Z [Modules] Fetching discord_erlpack@1 from https://discord.com/api/modules/stable/discord_erlpack/1
+2023-03-13T01:51:46.064Z [Modules] Streaming discord_erlpack@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_erlpack-1.zip
+2023-03-13T01:51:46.478Z [Modules] Streaming discord_erlpack@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_erlpack-1.zip: 1%
+2023-03-13T01:51:46.483Z [Modules] Streaming discord_erlpack@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_erlpack-1.zip: 5%
+2023-03-13T01:51:46.488Z [Modules] Streaming discord_erlpack@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_erlpack-1.zip: 9%
+2023-03-13T01:51:46.496Z [Modules] Streaming discord_erlpack@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_erlpack-1.zip: 13%
+2023-03-13T01:51:46.499Z [Modules] Streaming discord_erlpack@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_erlpack-1.zip: 16%
+2023-03-13T01:51:46.503Z [Modules] Streaming discord_erlpack@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_erlpack-1.zip: 20%
+2023-03-13T01:51:46.509Z [Modules] Streaming discord_erlpack@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_erlpack-1.zip: 22%
+2023-03-13T01:51:46.615Z [Modules] Streaming discord_erlpack@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_erlpack-1.zip: 26%
+2023-03-13T01:51:46.619Z [Modules] Streaming discord_erlpack@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_erlpack-1.zip: 30%
+2023-03-13T01:51:46.621Z [Modules] Streaming discord_erlpack@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_erlpack-1.zip: 31%
+2023-03-13T01:51:46.624Z [Modules] Streaming discord_erlpack@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_erlpack-1.zip: 35%
+2023-03-13T01:51:46.628Z [Modules] Streaming discord_erlpack@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_erlpack-1.zip: 39%
+2023-03-13T01:51:46.631Z [Modules] Streaming discord_erlpack@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_erlpack-1.zip: 43%
+2023-03-13T01:51:46.631Z [Modules] Streaming discord_erlpack@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_erlpack-1.zip: 44%
+2023-03-13T01:51:46.635Z [Modules] Streaming discord_erlpack@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_erlpack-1.zip: 48%
+2023-03-13T01:51:46.635Z [Modules] Streaming discord_erlpack@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_erlpack-1.zip: 49%
+2023-03-13T01:51:46.639Z [Modules] Streaming discord_erlpack@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_erlpack-1.zip: 53%
+2023-03-13T01:51:46.640Z [Modules] Streaming discord_erlpack@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_erlpack-1.zip: 54%
+2023-03-13T01:51:46.640Z [Modules] Streaming discord_erlpack@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_erlpack-1.zip: 55%
+2023-03-13T01:51:46.644Z [Modules] Streaming discord_erlpack@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_erlpack-1.zip: 59%
+2023-03-13T01:51:46.646Z [Modules] Streaming discord_erlpack@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_erlpack-1.zip: 62%
+2023-03-13T01:51:46.647Z [Modules] Streaming discord_erlpack@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_erlpack-1.zip: 63%
+2023-03-13T01:51:46.650Z [Modules] Streaming discord_erlpack@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_erlpack-1.zip: 66%
+2023-03-13T01:51:46.653Z [Modules] Streaming discord_erlpack@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_erlpack-1.zip: 70%
+2023-03-13T01:51:46.657Z [Modules] Streaming discord_erlpack@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_erlpack-1.zip: 74%
+2023-03-13T01:51:46.660Z [Modules] Streaming discord_erlpack@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_erlpack-1.zip: 77%
+2023-03-13T01:51:46.703Z [Modules] Streaming discord_erlpack@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_erlpack-1.zip: 78%
+2023-03-13T01:51:46.712Z [Modules] Streaming discord_erlpack@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_erlpack-1.zip: 81%
+2023-03-13T01:51:46.716Z [Modules] Streaming discord_erlpack@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_erlpack-1.zip: 82%
+2023-03-13T01:51:46.719Z [Modules] Streaming discord_erlpack@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_erlpack-1.zip: 84%
+2023-03-13T01:51:46.726Z [Modules] Streaming discord_erlpack@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_erlpack-1.zip: 88%
+2023-03-13T01:51:46.726Z [Modules] Streaming discord_erlpack@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_erlpack-1.zip: 89%
+2023-03-13T01:51:46.732Z [Modules] Streaming discord_erlpack@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_erlpack-1.zip: 92%
+2023-03-13T01:51:46.734Z [Modules] Streaming discord_erlpack@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_erlpack-1.zip: 93%
+2023-03-13T01:51:46.734Z [Modules] Streaming discord_erlpack@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_erlpack-1.zip: 94%
+2023-03-13T01:51:46.739Z [Modules] Streaming discord_erlpack@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_erlpack-1.zip: 98%
+2023-03-13T01:51:46.743Z [Modules] Streaming discord_erlpack@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_erlpack-1.zip: 100%
+2023-03-13T01:51:46.744Z [Modules] Fetching discord_spellcheck@1 from https://discord.com/api/modules/stable/discord_spellcheck/1
+2023-03-13T01:51:46.745Z [Modules] Streaming discord_spellcheck@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip
+2023-03-13T01:51:47.180Z [Modules] Streaming discord_spellcheck@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 1%
+2023-03-13T01:51:47.186Z [Modules] Streaming discord_spellcheck@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 2%
+2023-03-13T01:51:47.197Z [Modules] Streaming discord_spellcheck@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 3%
+2023-03-13T01:51:47.326Z [Modules] Streaming discord_spellcheck@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 4%
+2023-03-13T01:51:47.443Z [Modules] Streaming discord_spellcheck@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 5%
+2023-03-13T01:51:47.446Z [Modules] Streaming discord_spellcheck@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 6%
+2023-03-13T01:51:47.451Z [Modules] Streaming discord_spellcheck@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 7%
+2023-03-13T01:51:47.454Z [Modules] Streaming discord_spellcheck@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 8%
+2023-03-13T01:51:47.461Z [Modules] Streaming discord_spellcheck@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 9%
+2023-03-13T01:51:47.465Z [Modules] Streaming discord_spellcheck@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 10%
+2023-03-13T01:51:47.465Z [Modules] Streaming discord_spellcheck@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 15%
+2023-03-13T01:51:47.466Z [Modules] Streaming discord_spellcheck@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 16%
+2023-03-13T01:51:47.466Z [Modules] Streaming discord_spellcheck@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 17%
+2023-03-13T01:51:47.466Z [Modules] Streaming discord_spellcheck@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 18%
+2023-03-13T01:51:47.478Z [Modules] Streaming discord_spellcheck@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 19%
+2023-03-13T01:51:47.482Z [Modules] Streaming discord_spellcheck@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 20%
+2023-03-13T01:51:47.482Z [Modules] Streaming discord_spellcheck@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 22%
+2023-03-13T01:51:47.483Z [Modules] Streaming discord_spellcheck@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 23%
+2023-03-13T01:51:47.484Z [Modules] Streaming discord_spellcheck@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 25%
+2023-03-13T01:51:47.484Z [Modules] Streaming discord_spellcheck@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 26%
+2023-03-13T01:51:47.484Z [Modules] Streaming discord_spellcheck@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 27%
+2023-03-13T01:51:47.485Z [Modules] Streaming discord_spellcheck@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 28%
+2023-03-13T01:51:47.485Z [Modules] Streaming discord_spellcheck@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 29%
+2023-03-13T01:51:47.502Z [Modules] Streaming discord_spellcheck@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 30%
+2023-03-13T01:51:47.503Z [Modules] Streaming discord_spellcheck@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 31%
+2023-03-13T01:51:47.503Z [Modules] Streaming discord_spellcheck@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 34%
+2023-03-13T01:51:47.578Z [Modules] Streaming discord_spellcheck@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 35%
+2023-03-13T01:51:47.584Z [Modules] Streaming discord_spellcheck@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 36%
+2023-03-13T01:51:47.595Z [Modules] Streaming discord_spellcheck@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 37%
+2023-03-13T01:51:47.721Z [Modules] Streaming discord_spellcheck@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 38%
+2023-03-13T01:51:47.838Z [Modules] Streaming discord_spellcheck@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 39%
+2023-03-13T01:51:47.844Z [Modules] Streaming discord_spellcheck@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 40%
+2023-03-13T01:51:47.947Z [Modules] Streaming discord_spellcheck@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 41%
+2023-03-13T01:51:47.952Z [Modules] Streaming discord_spellcheck@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 42%
+2023-03-13T01:51:47.953Z [Modules] Streaming discord_spellcheck@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 43%
+2023-03-13T01:51:47.953Z [Modules] Streaming discord_spellcheck@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 44%
+2023-03-13T01:51:47.954Z [Modules] Streaming discord_spellcheck@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 45%
+2023-03-13T01:51:47.954Z [Modules] Streaming discord_spellcheck@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 46%
+2023-03-13T01:51:47.955Z [Modules] Streaming discord_spellcheck@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 47%
+2023-03-13T01:51:47.955Z [Modules] Streaming discord_spellcheck@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 48%
+2023-03-13T01:51:47.957Z [Modules] Streaming discord_spellcheck@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 51%
+2023-03-13T01:51:47.961Z [Modules] Streaming discord_spellcheck@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 53%
+2023-03-13T01:51:47.962Z [Modules] Streaming discord_spellcheck@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 54%
+2023-03-13T01:51:47.963Z [Modules] Streaming discord_spellcheck@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 55%
+2023-03-13T01:51:47.963Z [Modules] Streaming discord_spellcheck@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 56%
+2023-03-13T01:51:47.964Z [Modules] Streaming discord_spellcheck@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 58%
+2023-03-13T01:51:47.965Z [Modules] Streaming discord_spellcheck@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 59%
+2023-03-13T01:51:47.966Z [Modules] Streaming discord_spellcheck@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 60%
+2023-03-13T01:51:47.966Z [Modules] Streaming discord_spellcheck@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 62%
+2023-03-13T01:51:47.967Z [Modules] Streaming discord_spellcheck@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 63%
+2023-03-13T01:51:47.967Z [Modules] Streaming discord_spellcheck@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 64%
+2023-03-13T01:51:47.968Z [Modules] Streaming discord_spellcheck@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 65%
+2023-03-13T01:51:47.968Z [Modules] Streaming discord_spellcheck@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 67%
+2023-03-13T01:51:47.971Z [Modules] Streaming discord_spellcheck@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 68%
+2023-03-13T01:51:48.053Z [Modules] Streaming discord_spellcheck@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 69%
+2023-03-13T01:51:48.059Z [Modules] Streaming discord_spellcheck@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 70%
+2023-03-13T01:51:48.070Z [Modules] Streaming discord_spellcheck@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 71%
+2023-03-13T01:51:48.077Z [Modules] Streaming discord_spellcheck@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 72%
+2023-03-13T01:51:48.084Z [Modules] Streaming discord_spellcheck@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 73%
+2023-03-13T01:51:48.096Z [Modules] Streaming discord_spellcheck@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 74%
+2023-03-13T01:51:48.101Z [Modules] Streaming discord_spellcheck@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 75%
+2023-03-13T01:51:48.112Z [Modules] Streaming discord_spellcheck@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 76%
+2023-03-13T01:51:48.118Z [Modules] Streaming discord_spellcheck@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 77%
+2023-03-13T01:51:48.131Z [Modules] Streaming discord_spellcheck@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 78%
+2023-03-13T01:51:48.136Z [Modules] Streaming discord_spellcheck@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 79%
+2023-03-13T01:51:48.147Z [Modules] Streaming discord_spellcheck@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 80%
+2023-03-13T01:51:48.153Z [Modules] Streaming discord_spellcheck@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 81%
+2023-03-13T01:51:48.162Z [Modules] Streaming discord_spellcheck@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 82%
+2023-03-13T01:51:48.174Z [Modules] Streaming discord_spellcheck@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 83%
+2023-03-13T01:51:48.179Z [Modules] Streaming discord_spellcheck@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 84%
+2023-03-13T01:51:48.194Z [Modules] Streaming discord_spellcheck@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 85%
+2023-03-13T01:51:48.198Z [Modules] Streaming discord_spellcheck@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 86%
+2023-03-13T01:51:48.208Z [Modules] Streaming discord_spellcheck@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 87%
+2023-03-13T01:51:48.213Z [Modules] Streaming discord_spellcheck@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 88%
+2023-03-13T01:51:48.315Z [Modules] Streaming discord_spellcheck@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 89%
+2023-03-13T01:51:48.315Z [Modules] Streaming discord_spellcheck@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 90%
+2023-03-13T01:51:48.316Z [Modules] Streaming discord_spellcheck@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 92%
+2023-03-13T01:51:48.316Z [Modules] Streaming discord_spellcheck@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 93%
+2023-03-13T01:51:48.318Z [Modules] Streaming discord_spellcheck@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 95%
+2023-03-13T01:51:48.375Z [Modules] Streaming discord_spellcheck@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 96%
+2023-03-13T01:51:48.382Z [Modules] Streaming discord_spellcheck@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 97%
+2023-03-13T01:51:48.390Z [Modules] Streaming discord_spellcheck@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 98%
+2023-03-13T01:51:48.395Z [Modules] Streaming discord_spellcheck@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 99%
+2023-03-13T01:51:48.400Z [Modules] Streaming discord_spellcheck@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 100%
+2023-03-13T01:51:48.401Z [Modules] Fetching discord_utils@1 from https://discord.com/api/modules/stable/discord_utils/1
+2023-03-13T01:51:48.402Z [Modules] Streaming discord_utils@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_utils-1.zip
+2023-03-13T01:51:48.832Z [Modules] Streaming discord_utils@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_utils-1.zip: 1%
+2023-03-13T01:51:48.837Z [Modules] Streaming discord_utils@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_utils-1.zip: 3%
+2023-03-13T01:51:48.842Z [Modules] Streaming discord_utils@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_utils-1.zip: 5%
+2023-03-13T01:51:48.846Z [Modules] Streaming discord_utils@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_utils-1.zip: 7%
+2023-03-13T01:51:48.852Z [Modules] Streaming discord_utils@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_utils-1.zip: 9%
+2023-03-13T01:51:48.859Z [Modules] Streaming discord_utils@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_utils-1.zip: 11%
+2023-03-13T01:51:48.860Z [Modules] Streaming discord_utils@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_utils-1.zip: 12%
+2023-03-13T01:51:48.865Z [Modules] Streaming discord_utils@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_utils-1.zip: 14%
+2023-03-13T01:51:48.870Z [Modules] Streaming discord_utils@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_utils-1.zip: 16%
+2023-03-13T01:51:48.875Z [Modules] Streaming discord_utils@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_utils-1.zip: 17%
+2023-03-13T01:51:48.876Z [Modules] Streaming discord_utils@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_utils-1.zip: 18%
+2023-03-13T01:51:48.880Z [Modules] Streaming discord_utils@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_utils-1.zip: 20%
+2023-03-13T01:51:48.885Z [Modules] Streaming discord_utils@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_utils-1.zip: 22%
+2023-03-13T01:51:48.890Z [Modules] Streaming discord_utils@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_utils-1.zip: 24%
+2023-03-13T01:51:48.895Z [Modules] Streaming discord_utils@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_utils-1.zip: 26%
+2023-03-13T01:51:48.901Z [Modules] Streaming discord_utils@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_utils-1.zip: 28%
+2023-03-13T01:51:48.908Z [Modules] Streaming discord_utils@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_utils-1.zip: 30%
+2023-03-13T01:51:48.912Z [Modules] Streaming discord_utils@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_utils-1.zip: 33%
+2023-03-13T01:51:48.918Z [Modules] Streaming discord_utils@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_utils-1.zip: 34%
+2023-03-13T01:51:48.918Z [Modules] Streaming discord_utils@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_utils-1.zip: 35%
+2023-03-13T01:51:48.926Z [Modules] Streaming discord_utils@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_utils-1.zip: 37%
+2023-03-13T01:51:48.927Z [Modules] Streaming discord_utils@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_utils-1.zip: 38%
+2023-03-13T01:51:48.932Z [Modules] Streaming discord_utils@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_utils-1.zip: 40%
+2023-03-13T01:51:48.937Z [Modules] Streaming discord_utils@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_utils-1.zip: 42%
+2023-03-13T01:51:48.944Z [Modules] Streaming discord_utils@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_utils-1.zip: 44%
+2023-03-13T01:51:48.948Z [Modules] Streaming discord_utils@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_utils-1.zip: 47%
+2023-03-13T01:51:48.954Z [Modules] Streaming discord_utils@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_utils-1.zip: 49%
+2023-03-13T01:51:48.961Z [Modules] Streaming discord_utils@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_utils-1.zip: 51%
+2023-03-13T01:51:48.963Z [Modules] Streaming discord_utils@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_utils-1.zip: 52%
+2023-03-13T01:51:48.968Z [Modules] Streaming discord_utils@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_utils-1.zip: 54%
+2023-03-13T01:51:48.975Z [Modules] Streaming discord_utils@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_utils-1.zip: 56%
+2023-03-13T01:51:48.980Z [Modules] Streaming discord_utils@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_utils-1.zip: 59%
+2023-03-13T01:51:48.985Z [Modules] Streaming discord_utils@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_utils-1.zip: 61%
+2023-03-13T01:51:48.991Z [Modules] Streaming discord_utils@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_utils-1.zip: 63%
+2023-03-13T01:51:48.996Z [Modules] Streaming discord_utils@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_utils-1.zip: 65%
+2023-03-13T01:51:49.002Z [Modules] Streaming discord_utils@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_utils-1.zip: 67%
+2023-03-13T01:51:49.011Z [Modules] Streaming discord_utils@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_utils-1.zip: 69%
+2023-03-13T01:51:49.011Z [Modules] Streaming discord_utils@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_utils-1.zip: 70%
+2023-03-13T01:51:49.016Z [Modules] Streaming discord_utils@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_utils-1.zip: 73%
+2023-03-13T01:51:49.021Z [Modules] Streaming discord_utils@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_utils-1.zip: 75%
+2023-03-13T01:51:49.027Z [Modules] Streaming discord_utils@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_utils-1.zip: 76%
+2023-03-13T01:51:49.031Z [Modules] Streaming discord_utils@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_utils-1.zip: 79%
+2023-03-13T01:51:49.037Z [Modules] Streaming discord_utils@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_utils-1.zip: 81%
+2023-03-13T01:51:49.043Z [Modules] Streaming discord_utils@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_utils-1.zip: 83%
+2023-03-13T01:51:49.047Z [Modules] Streaming discord_utils@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_utils-1.zip: 85%
+2023-03-13T01:51:49.052Z [Modules] Streaming discord_utils@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_utils-1.zip: 86%
+2023-03-13T01:51:49.052Z [Modules] Streaming discord_utils@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_utils-1.zip: 87%
+2023-03-13T01:51:49.147Z [Modules] Streaming discord_utils@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_utils-1.zip: 89%
+2023-03-13T01:51:49.151Z [Modules] Streaming discord_utils@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_utils-1.zip: 91%
+2023-03-13T01:51:49.156Z [Modules] Streaming discord_utils@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_utils-1.zip: 93%
+2023-03-13T01:51:49.161Z [Modules] Streaming discord_utils@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_utils-1.zip: 95%
+2023-03-13T01:51:49.167Z [Modules] Streaming discord_utils@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_utils-1.zip: 98%
+2023-03-13T01:51:49.170Z [Modules] Streaming discord_utils@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_utils-1.zip: 100%
+2023-03-13T01:51:49.171Z [Modules] Fetching discord_voice@1 from https://discord.com/api/modules/stable/discord_voice/1
+2023-03-13T01:51:49.171Z [Modules] Streaming discord_voice@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_voice-1.zip
+2023-03-13T01:51:49.601Z [Modules] Streaming discord_voice@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 1%
+2023-03-13T01:51:49.618Z [Modules] Streaming discord_voice@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 2%
+2023-03-13T01:51:49.631Z [Modules] Streaming discord_voice@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 3%
+2023-03-13T01:51:49.647Z [Modules] Streaming discord_voice@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 4%
+2023-03-13T01:51:49.664Z [Modules] Streaming discord_voice@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 5%
+2023-03-13T01:51:49.684Z [Modules] Streaming discord_voice@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 6%
+2023-03-13T01:51:49.700Z [Modules] Streaming discord_voice@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 7%
+2023-03-13T01:51:49.712Z [Modules] Streaming discord_voice@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 8%
+2023-03-13T01:51:49.829Z [Modules] Streaming discord_voice@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 9%
+2023-03-13T01:51:49.838Z [Modules] Streaming discord_voice@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 10%
+2023-03-13T01:51:49.849Z [Modules] Streaming discord_voice@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 11%
+2023-03-13T01:51:49.862Z [Modules] Streaming discord_voice@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 12%
+2023-03-13T01:51:49.874Z [Modules] Streaming discord_voice@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 13%
+2023-03-13T01:51:49.881Z [Modules] Streaming discord_voice@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 14%
+2023-03-13T01:51:49.881Z [Modules] Streaming discord_voice@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 15%
+2023-03-13T01:51:49.881Z [Modules] Streaming discord_voice@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 16%
+2023-03-13T01:51:49.882Z [Modules] Streaming discord_voice@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 17%
+2023-03-13T01:51:49.882Z [Modules] Streaming discord_voice@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 18%
+2023-03-13T01:51:49.893Z [Modules] Streaming discord_voice@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 19%
+2023-03-13T01:51:49.909Z [Modules] Streaming discord_voice@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 20%
+2023-03-13T01:51:49.927Z [Modules] Streaming discord_voice@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 21%
+2023-03-13T01:51:49.938Z [Modules] Streaming discord_voice@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 22%
+2023-03-13T01:51:49.954Z [Modules] Streaming discord_voice@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 23%
+2023-03-13T01:51:49.970Z [Modules] Streaming discord_voice@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 24%
+2023-03-13T01:51:49.994Z [Modules] Streaming discord_voice@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 25%
+2023-03-13T01:51:50.006Z [Modules] Streaming discord_voice@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 26%
+2023-03-13T01:51:50.020Z [Modules] Streaming discord_voice@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 27%
+2023-03-13T01:51:50.035Z [Modules] Streaming discord_voice@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 28%
+2023-03-13T01:51:50.055Z [Modules] Streaming discord_voice@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 29%
+2023-03-13T01:51:50.070Z [Modules] Streaming discord_voice@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 30%
+2023-03-13T01:51:50.086Z [Modules] Streaming discord_voice@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 31%
+2023-03-13T01:51:50.211Z [Modules] Streaming discord_voice@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 32%
+2023-03-13T01:51:50.225Z [Modules] Streaming discord_voice@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 33%
+2023-03-13T01:51:50.237Z [Modules] Streaming discord_voice@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 34%
+2023-03-13T01:51:50.254Z [Modules] Streaming discord_voice@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 35%
+2023-03-13T01:51:50.267Z [Modules] Streaming discord_voice@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 36%
+2023-03-13T01:51:50.285Z [Modules] Streaming discord_voice@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 37%
+2023-03-13T01:51:50.298Z [Modules] Streaming discord_voice@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 38%
+2023-03-13T01:51:50.314Z [Modules] Streaming discord_voice@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 39%
+2023-03-13T01:51:50.317Z [Modules] Streaming discord_voice@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 41%
+2023-03-13T01:51:50.317Z [Modules] Streaming discord_voice@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 42%
+2023-03-13T01:51:50.318Z [Modules] Streaming discord_voice@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 43%
+2023-03-13T01:51:50.319Z [Modules] Streaming discord_voice@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 44%
+2023-03-13T01:51:50.319Z [Modules] Streaming discord_voice@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 45%
+2023-03-13T01:51:50.327Z [Modules] Streaming discord_voice@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 46%
+2023-03-13T01:51:50.450Z [Modules] Streaming discord_voice@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 47%
+2023-03-13T01:51:50.464Z [Modules] Streaming discord_voice@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 48%
+2023-03-13T01:51:50.469Z [Modules] Streaming discord_voice@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 49%
+2023-03-13T01:51:50.469Z [Modules] Streaming discord_voice@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 50%
+2023-03-13T01:51:50.470Z [Modules] Streaming discord_voice@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 51%
+2023-03-13T01:51:50.471Z [Modules] Streaming discord_voice@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 52%
+2023-03-13T01:51:50.471Z [Modules] Streaming discord_voice@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 53%
+2023-03-13T01:51:50.562Z [Modules] Streaming discord_voice@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 54%
+2023-03-13T01:51:50.578Z [Modules] Streaming discord_voice@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 55%
+2023-03-13T01:51:50.590Z [Modules] Streaming discord_voice@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 56%
+2023-03-13T01:51:50.601Z [Modules] Streaming discord_voice@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 57%
+2023-03-13T01:51:50.613Z [Modules] Streaming discord_voice@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 58%
+2023-03-13T01:51:50.632Z [Modules] Streaming discord_voice@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 59%
+2023-03-13T01:51:50.633Z [Modules] Streaming discord_voice@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 60%
+2023-03-13T01:51:50.661Z [Modules] Streaming discord_voice@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 62%
+2023-03-13T01:51:50.661Z [Modules] Streaming discord_voice@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 63%
+2023-03-13T01:51:50.662Z [Modules] Streaming discord_voice@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 64%
+2023-03-13T01:51:50.663Z [Modules] Streaming discord_voice@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 65%
+2023-03-13T01:51:50.664Z [Modules] Streaming discord_voice@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 66%
+2023-03-13T01:51:50.670Z [Modules] Streaming discord_voice@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 67%
+2023-03-13T01:51:50.687Z [Modules] Streaming discord_voice@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 68%
+2023-03-13T01:51:50.698Z [Modules] Streaming discord_voice@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 69%
+2023-03-13T01:51:50.718Z [Modules] Streaming discord_voice@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 70%
+2023-03-13T01:51:50.733Z [Modules] Streaming discord_voice@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 71%
+2023-03-13T01:51:50.747Z [Modules] Streaming discord_voice@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 72%
+2023-03-13T01:51:50.766Z [Modules] Streaming discord_voice@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 73%
+2023-03-13T01:51:50.780Z [Modules] Streaming discord_voice@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 74%
+2023-03-13T01:51:50.797Z [Modules] Streaming discord_voice@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 75%
+2023-03-13T01:51:50.815Z [Modules] Streaming discord_voice@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 76%
+2023-03-13T01:51:50.832Z [Modules] Streaming discord_voice@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 77%
+2023-03-13T01:51:50.954Z [Modules] Streaming discord_voice@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 78%
+2023-03-13T01:51:50.970Z [Modules] Streaming discord_voice@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 79%
+2023-03-13T01:51:50.985Z [Modules] Streaming discord_voice@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 80%
+2023-03-13T01:51:50.998Z [Modules] Streaming discord_voice@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 81%
+2023-03-13T01:51:51.019Z [Modules] Streaming discord_voice@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 82%
+2023-03-13T01:51:51.027Z [Modules] Streaming discord_voice@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 83%
+2023-03-13T01:51:51.046Z [Modules] Streaming discord_voice@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 84%
+2023-03-13T01:51:51.057Z [Modules] Streaming discord_voice@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 85%
+2023-03-13T01:51:51.060Z [Modules] Streaming discord_voice@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 88%
+2023-03-13T01:51:51.062Z [Modules] Streaming discord_voice@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 90%
+2023-03-13T01:51:51.063Z [Modules] Streaming discord_voice@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 91%
+2023-03-13T01:51:51.074Z [Modules] Streaming discord_voice@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 92%
+2023-03-13T01:51:51.187Z [Modules] Streaming discord_voice@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 93%
+2023-03-13T01:51:51.201Z [Modules] Streaming discord_voice@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 94%
+2023-03-13T01:51:51.202Z [Modules] Streaming discord_voice@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 95%
+2023-03-13T01:51:51.202Z [Modules] Streaming discord_voice@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 96%
+2023-03-13T01:51:51.205Z [Modules] Streaming discord_voice@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 97%
+2023-03-13T01:51:51.205Z [Modules] Streaming discord_voice@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 99%
+2023-03-13T01:51:51.206Z [Modules] Streaming discord_voice@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 100%
+2023-03-13T01:51:51.206Z [Modules] Finished module downloads. [success: 5] [failure: 0]
+2023-03-13T01:51:51.208Z [Modules] Installing updates...
+2023-03-13T01:51:51.209Z [Modules] Installing discord_desktop_core@1 from /home/tagir/.config/discord/0.0.25/modules/pending/discord_desktop_core-1.zip
+2023-03-13T01:51:51.302Z [Modules] Installing discord_erlpack@1 from /home/tagir/.config/discord/0.0.25/modules/pending/discord_erlpack-1.zip
+2023-03-13T01:51:51.386Z [Modules] Installing discord_spellcheck@1 from /home/tagir/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip
+2023-03-13T01:51:52.202Z [Modules] Installing discord_utils@1 from /home/tagir/.config/discord/0.0.25/modules/pending/discord_utils-1.zip
+2023-03-13T01:51:52.609Z [Modules] Installing discord_voice@1 from /home/tagir/.config/discord/0.0.25/modules/pending/discord_voice-1.zip
+2023-03-13T01:51:53.458Z [Modules] Finished module installations. [success: 5] [failure: 0]
+2023-03-13T01:51:53.458Z [Modules] Checking for host updates.
+2023-03-13T01:51:53.692Z [Modules] Host is up to date.
+2023-03-13T01:51:53.692Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-03-13T01:51:53.695Z [Modules] No module updates available.
+2023-03-13T01:51:57.216Z [Modules] Starting to install discord_krisp...
+2023-03-13T01:51:57.216Z [Modules] Fetching discord_krisp@1 from https://discord.com/api/modules/stable/discord_krisp/1
+2023-03-13T01:51:57.216Z [Modules] Streaming discord_krisp@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip
+2023-03-13T01:51:57.319Z [Modules] Starting to install discord_game_utils...
+2023-03-13T01:51:57.943Z [Modules] Streaming discord_krisp@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 1%
+2023-03-13T01:51:57.966Z [Modules] Streaming discord_krisp@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 2%
+2023-03-13T01:51:57.984Z [Modules] Streaming discord_krisp@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 3%
+2023-03-13T01:51:58.009Z [Modules] Streaming discord_krisp@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 4%
+2023-03-13T01:51:58.024Z [Modules] Streaming discord_krisp@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 5%
+2023-03-13T01:51:58.046Z [Modules] Streaming discord_krisp@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 6%
+2023-03-13T01:51:58.063Z [Modules] Streaming discord_krisp@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 7%
+2023-03-13T01:51:58.194Z [Modules] Streaming discord_krisp@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 8%
+2023-03-13T01:51:58.203Z [Modules] Streaming discord_krisp@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 9%
+2023-03-13T01:51:58.204Z [Modules] Streaming discord_krisp@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 10%
+2023-03-13T01:51:58.204Z [Modules] Streaming discord_krisp@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 11%
+2023-03-13T01:51:58.205Z [Modules] Streaming discord_krisp@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 12%
+2023-03-13T01:51:58.205Z [Modules] Streaming discord_krisp@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 13%
+2023-03-13T01:51:58.208Z [Modules] Streaming discord_krisp@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 14%
+2023-03-13T01:51:58.219Z [Modules] Streaming discord_krisp@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 15%
+2023-03-13T01:51:58.237Z [Modules] Streaming discord_krisp@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 16%
+2023-03-13T01:51:58.260Z [Modules] Streaming discord_krisp@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 17%
+2023-03-13T01:51:58.277Z [Modules] Streaming discord_krisp@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 18%
+2023-03-13T01:51:58.295Z [Modules] Streaming discord_krisp@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 19%
+2023-03-13T01:51:58.317Z [Modules] Streaming discord_krisp@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 20%
+2023-03-13T01:51:58.332Z [Modules] Streaming discord_krisp@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 21%
+2023-03-13T01:51:58.355Z [Modules] Streaming discord_krisp@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 22%
+2023-03-13T01:51:58.371Z [Modules] Streaming discord_krisp@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 23%
+2023-03-13T01:51:58.392Z [Modules] Streaming discord_krisp@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 24%
+2023-03-13T01:51:58.409Z [Modules] Streaming discord_krisp@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 25%
+2023-03-13T01:51:58.431Z [Modules] Streaming discord_krisp@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 26%
+2023-03-13T01:51:58.448Z [Modules] Streaming discord_krisp@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 27%
+2023-03-13T01:51:58.471Z [Modules] Streaming discord_krisp@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 28%
+2023-03-13T01:51:58.487Z [Modules] Streaming discord_krisp@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 29%
+2023-03-13T01:51:58.511Z [Modules] Streaming discord_krisp@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 30%
+2023-03-13T01:51:58.526Z [Modules] Streaming discord_krisp@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 31%
+2023-03-13T01:51:58.544Z [Modules] Streaming discord_krisp@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 32%
+2023-03-13T01:51:58.566Z [Modules] Streaming discord_krisp@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 33%
+2023-03-13T01:51:58.582Z [Modules] Streaming discord_krisp@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 34%
+2023-03-13T01:51:58.605Z [Modules] Streaming discord_krisp@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 35%
+2023-03-13T01:51:58.605Z [Modules] Checking for host updates.
+2023-03-13T01:51:58.751Z [Modules] Streaming discord_krisp@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 36%
+2023-03-13T01:51:58.769Z [Modules] Streaming discord_krisp@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 37%
+2023-03-13T01:51:58.785Z [Modules] Streaming discord_krisp@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 38%
+2023-03-13T01:51:58.803Z [Modules] Streaming discord_krisp@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 39%
+2023-03-13T01:51:58.803Z [Modules] Starting to install discord_rpc...
+2023-03-13T01:51:58.840Z [Modules] Streaming discord_krisp@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 41%
+2023-03-13T01:51:58.852Z [Modules] Host is up to date.
+2023-03-13T01:51:58.852Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-03-13T01:51:58.853Z [Modules] Streaming discord_krisp@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 42%
+2023-03-13T01:51:58.856Z [Modules] Streaming discord_krisp@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 43%
+2023-03-13T01:51:58.862Z [Modules] No module updates available.
+2023-03-13T01:51:58.872Z [Modules] Streaming discord_krisp@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 44%
+2023-03-13T01:51:58.872Z [Modules] Streaming discord_krisp@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 45%
+2023-03-13T01:51:58.878Z [Modules] Streaming discord_krisp@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 46%
+2023-03-13T01:51:58.896Z [Modules] Streaming discord_krisp@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 48%
+2023-03-13T01:51:58.897Z [Modules] Streaming discord_krisp@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 49%
+2023-03-13T01:51:58.962Z [Modules] Streaming discord_krisp@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 51%
+2023-03-13T01:51:58.963Z [Modules] Streaming discord_krisp@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 52%
+2023-03-13T01:51:58.982Z [Modules] Streaming discord_krisp@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 53%
+2023-03-13T01:51:58.999Z [Modules] Streaming discord_krisp@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 54%
+2023-03-13T01:51:59.017Z [Modules] Streaming discord_krisp@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 55%
+2023-03-13T01:51:59.039Z [Modules] Streaming discord_krisp@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 56%
+2023-03-13T01:51:59.055Z [Modules] Streaming discord_krisp@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 57%
+2023-03-13T01:51:59.077Z [Modules] Streaming discord_krisp@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 58%
+2023-03-13T01:51:59.097Z [Modules] Streaming discord_krisp@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 59%
+2023-03-13T01:51:59.114Z [Modules] Streaming discord_krisp@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 60%
+2023-03-13T01:51:59.373Z [Modules] Streaming discord_krisp@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 61%
+2023-03-13T01:51:59.550Z [Modules] Streaming discord_krisp@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 62%
+2023-03-13T01:51:59.734Z [Modules] Streaming discord_krisp@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 63%
+2023-03-13T01:51:59.734Z [Modules] Streaming discord_krisp@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 64%
+2023-03-13T01:51:59.742Z [Modules] Streaming discord_krisp@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 65%
+2023-03-13T01:51:59.743Z [Modules] Streaming discord_krisp@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 66%
+2023-03-13T01:51:59.744Z [Modules] Streaming discord_krisp@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 67%
+2023-03-13T01:51:59.747Z [Modules] Streaming discord_krisp@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 68%
+2023-03-13T01:51:59.763Z [Modules] Streaming discord_krisp@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 69%
+2023-03-13T01:51:59.780Z [Modules] Streaming discord_krisp@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 70%
+2023-03-13T01:51:59.797Z [Modules] Streaming discord_krisp@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 71%
+2023-03-13T01:51:59.819Z [Modules] Streaming discord_krisp@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 72%
+2023-03-13T01:51:59.836Z [Modules] Streaming discord_krisp@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 73%
+2023-03-13T01:51:59.858Z [Modules] Streaming discord_krisp@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 74%
+2023-03-13T01:51:59.875Z [Modules] Streaming discord_krisp@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 75%
+2023-03-13T01:51:59.897Z [Modules] Streaming discord_krisp@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 76%
+2023-03-13T01:51:59.914Z [Modules] Streaming discord_krisp@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 77%
+2023-03-13T01:51:59.936Z [Modules] Streaming discord_krisp@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 78%
+2023-03-13T01:51:59.953Z [Modules] Streaming discord_krisp@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 79%
+2023-03-13T01:51:59.970Z [Modules] Streaming discord_krisp@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 80%
+2023-03-13T01:51:59.994Z [Modules] Streaming discord_krisp@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 81%
+2023-03-13T01:52:00.009Z [Modules] Streaming discord_krisp@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 82%
+2023-03-13T01:52:00.032Z [Modules] Streaming discord_krisp@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 83%
+2023-03-13T01:52:00.048Z [Modules] Streaming discord_krisp@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 84%
+2023-03-13T01:52:00.068Z [Modules] Streaming discord_krisp@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 85%
+2023-03-13T01:52:00.088Z [Modules] Streaming discord_krisp@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 86%
+2023-03-13T01:52:00.233Z [Modules] Streaming discord_krisp@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 87%
+2023-03-13T01:52:00.253Z [Modules] Streaming discord_krisp@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 88%
+2023-03-13T01:52:00.270Z [Modules] Streaming discord_krisp@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 89%
+2023-03-13T01:52:00.292Z [Modules] Streaming discord_krisp@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 90%
+2023-03-13T01:52:00.307Z [Modules] Streaming discord_krisp@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 91%
+2023-03-13T01:52:00.321Z [Modules] Streaming discord_krisp@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 92%
+2023-03-13T01:52:00.344Z [Modules] Streaming discord_krisp@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 93%
+2023-03-13T01:52:00.348Z [Modules] Streaming discord_krisp@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 94%
+2023-03-13T01:52:00.348Z [Modules] Streaming discord_krisp@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 95%
+2023-03-13T01:52:00.349Z [Modules] Streaming discord_krisp@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 96%
+2023-03-13T01:52:00.402Z [Modules] Streaming discord_krisp@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 97%
+2023-03-13T01:52:00.418Z [Modules] Streaming discord_krisp@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 98%
+2023-03-13T01:52:00.438Z [Modules] Streaming discord_krisp@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 99%
+2023-03-13T01:52:00.461Z [Modules] Streaming discord_krisp@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 100%
+2023-03-13T01:52:00.462Z [Modules] Fetching discord_game_utils@1 from https://discord.com/api/modules/stable/discord_game_utils/1
+2023-03-13T01:52:00.462Z [Modules] Streaming discord_game_utils@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_game_utils-1.zip
+2023-03-13T01:52:00.462Z [Modules] Installing discord_krisp@1 from /home/tagir/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip
+2023-03-13T01:52:00.895Z [Modules] Streaming discord_game_utils@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_game_utils-1.zip: 1%
+2023-03-13T01:52:00.899Z [Modules] Streaming discord_game_utils@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_game_utils-1.zip: 3%
+2023-03-13T01:52:00.905Z [Modules] Streaming discord_game_utils@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_game_utils-1.zip: 6%
+2023-03-13T01:52:00.910Z [Modules] Streaming discord_game_utils@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_game_utils-1.zip: 9%
+2023-03-13T01:52:00.916Z [Modules] Streaming discord_game_utils@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_game_utils-1.zip: 11%
+2023-03-13T01:52:00.922Z [Modules] Streaming discord_game_utils@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_game_utils-1.zip: 14%
+2023-03-13T01:52:00.927Z [Modules] Streaming discord_game_utils@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_game_utils-1.zip: 16%
+2023-03-13T01:52:00.932Z [Modules] Streaming discord_game_utils@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_game_utils-1.zip: 19%
+2023-03-13T01:52:00.937Z [Modules] Streaming discord_game_utils@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_game_utils-1.zip: 21%
+2023-03-13T01:52:00.943Z [Modules] Streaming discord_game_utils@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_game_utils-1.zip: 24%
+2023-03-13T01:52:00.948Z [Modules] Streaming discord_game_utils@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_game_utils-1.zip: 27%
+2023-03-13T01:52:00.954Z [Modules] Streaming discord_game_utils@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_game_utils-1.zip: 29%
+2023-03-13T01:52:00.959Z [Modules] Streaming discord_game_utils@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_game_utils-1.zip: 32%
+2023-03-13T01:52:00.960Z [Modules] Finished module installations. [success: 1] [failure: 0]
+2023-03-13T01:52:00.965Z [Modules] Streaming discord_game_utils@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_game_utils-1.zip: 35%
+2023-03-13T01:52:00.970Z [Modules] Streaming discord_game_utils@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_game_utils-1.zip: 37%
+2023-03-13T01:52:00.976Z [Modules] Streaming discord_game_utils@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_game_utils-1.zip: 39%
+2023-03-13T01:52:00.981Z [Modules] Streaming discord_game_utils@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_game_utils-1.zip: 42%
+2023-03-13T01:52:00.983Z [Modules] Streaming discord_game_utils@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_game_utils-1.zip: 43%
+2023-03-13T01:52:00.990Z [Modules] Streaming discord_game_utils@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_game_utils-1.zip: 46%
+2023-03-13T01:52:00.995Z [Modules] Streaming discord_game_utils@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_game_utils-1.zip: 49%
+2023-03-13T01:52:01.000Z [Modules] Streaming discord_game_utils@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_game_utils-1.zip: 51%
+2023-03-13T01:52:01.006Z [Modules] Streaming discord_game_utils@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_game_utils-1.zip: 54%
+2023-03-13T01:52:01.009Z [Modules] Streaming discord_game_utils@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_game_utils-1.zip: 55%
+2023-03-13T01:52:01.012Z [Modules] Streaming discord_game_utils@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_game_utils-1.zip: 57%
+2023-03-13T01:52:01.015Z [Modules] Streaming discord_game_utils@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_game_utils-1.zip: 58%
+2023-03-13T01:52:01.020Z [Modules] Streaming discord_game_utils@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_game_utils-1.zip: 61%
+2023-03-13T01:52:01.025Z [Modules] Streaming discord_game_utils@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_game_utils-1.zip: 63%
+2023-03-13T01:52:01.028Z [Modules] Streaming discord_game_utils@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_game_utils-1.zip: 64%
+2023-03-13T01:52:01.029Z [Modules] Streaming discord_game_utils@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_game_utils-1.zip: 65%
+2023-03-13T01:52:01.035Z [Modules] Streaming discord_game_utils@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_game_utils-1.zip: 68%
+2023-03-13T01:52:01.041Z [Modules] Streaming discord_game_utils@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_game_utils-1.zip: 71%
+2023-03-13T01:52:01.046Z [Modules] Streaming discord_game_utils@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_game_utils-1.zip: 73%
+2023-03-13T01:52:01.052Z [Modules] Streaming discord_game_utils@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_game_utils-1.zip: 76%
+2023-03-13T01:52:01.058Z [Modules] Streaming discord_game_utils@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_game_utils-1.zip: 78%
+2023-03-13T01:52:01.063Z [Modules] Streaming discord_game_utils@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_game_utils-1.zip: 80%
+2023-03-13T01:52:01.067Z [Modules] Streaming discord_game_utils@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_game_utils-1.zip: 83%
+2023-03-13T01:52:01.072Z [Modules] Streaming discord_game_utils@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_game_utils-1.zip: 85%
+2023-03-13T01:52:01.076Z [Modules] Streaming discord_game_utils@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_game_utils-1.zip: 87%
+2023-03-13T01:52:01.079Z [Modules] Streaming discord_game_utils@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_game_utils-1.zip: 88%
+2023-03-13T01:52:01.084Z [Modules] Streaming discord_game_utils@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_game_utils-1.zip: 90%
+2023-03-13T01:52:01.226Z [Modules] Streaming discord_game_utils@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_game_utils-1.zip: 93%
+2023-03-13T01:52:01.227Z [Modules] Streaming discord_game_utils@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_game_utils-1.zip: 96%
+2023-03-13T01:52:01.227Z [Modules] Streaming discord_game_utils@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_game_utils-1.zip: 98%
+2023-03-13T01:52:01.227Z [Modules] Streaming discord_game_utils@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_game_utils-1.zip: 100%
+2023-03-13T01:52:01.228Z [Modules] Fetching discord_rpc@1 from https://discord.com/api/modules/stable/discord_rpc/1
+2023-03-13T01:52:01.228Z [Modules] Streaming discord_rpc@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_rpc-1.zip
+2023-03-13T01:52:01.228Z [Modules] Installing discord_game_utils@1 from /home/tagir/.config/discord/0.0.25/modules/pending/discord_game_utils-1.zip
+2023-03-13T01:52:01.316Z [Modules] Finished module installations. [success: 1] [failure: 0]
+2023-03-13T01:52:01.675Z [Modules] Streaming discord_rpc@1 to /home/tagir/.config/discord/0.0.25/modules/pending/discord_rpc-1.zip: 100%
+2023-03-13T01:52:01.676Z [Modules] Finished module downloads. [success: 3] [failure: 0]
+2023-03-13T01:52:01.676Z [Modules] Installing discord_rpc@1 from /home/tagir/.config/discord/0.0.25/modules/pending/discord_rpc-1.zip
+2023-03-13T01:52:01.710Z [Modules] Finished module installations. [success: 1] [failure: 0]
+2023-03-13T03:30:01.296Z [Modules] Modules initializing
+2023-03-13T03:30:01.297Z [Modules] Distribution: remote
+2023-03-13T03:30:01.297Z [Modules] Host updates: enabled
+2023-03-13T03:30:01.297Z [Modules] Module updates: enabled
+2023-03-13T03:30:01.328Z [Modules] Module install path: /home/tagir/.config/discord/0.0.25/modules
+2023-03-13T03:30:01.328Z [Modules] Module installed file path: /home/tagir/.config/discord/0.0.25/modules/installed.json
+2023-03-13T03:30:01.328Z [Modules] Module download path: /home/tagir/.config/discord/0.0.25/modules/pending
+2023-03-13T03:30:02.600Z [Modules] No updates to install
+2023-03-13T03:30:02.600Z [Modules] Checking for host updates.
+2023-03-13T03:30:03.390Z [Modules] Host is up to date.
+2023-03-13T03:30:03.391Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-03-13T03:30:03.491Z [Modules] No module updates available.
+2023-03-13T03:30:09.556Z [Modules] Checking for host updates.
+2023-03-13T03:30:09.798Z [Modules] Host is up to date.
+2023-03-13T03:30:09.799Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-03-13T03:30:09.800Z [Modules] No module updates available.
+2023-03-13T04:30:09.564Z [Modules] Checking for host updates.
+2023-03-13T04:30:09.823Z [Modules] Host is up to date.
+2023-03-13T04:30:09.823Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-03-13T04:30:09.921Z [Modules] No module updates available.
+2023-03-13T05:30:09.585Z [Modules] Checking for host updates.
+2023-03-13T05:30:09.822Z [Modules] Host is up to date.
+2023-03-13T05:30:09.823Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-03-13T05:30:09.921Z [Modules] No module updates available.
+2023-03-13T06:30:09.556Z [Modules] Checking for host updates.
+2023-03-13T06:30:09.797Z [Modules] Host is up to date.
+2023-03-13T06:30:09.797Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-03-13T06:30:09.892Z [Modules] No module updates available.
+2023-03-13T07:30:09.562Z [Modules] Checking for host updates.
+2023-03-13T07:30:09.814Z [Modules] Host is up to date.
+2023-03-13T07:30:09.814Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-03-13T07:30:09.913Z [Modules] No module updates available.
+2023-03-13T08:30:09.577Z [Modules] Checking for host updates.
+2023-03-13T08:30:09.849Z [Modules] Host is up to date.
+2023-03-13T08:30:09.850Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-03-13T08:30:09.954Z [Modules] No module updates available.
+2023-03-13T09:30:09.585Z [Modules] Checking for host updates.
+2023-03-13T09:30:09.849Z [Modules] Host is up to date.
+2023-03-13T09:30:09.850Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-03-13T09:30:09.950Z [Modules] No module updates available.
+2023-03-13T10:30:09.562Z [Modules] Checking for host updates.
+2023-03-13T10:30:09.942Z [Modules] Host is up to date.
+2023-03-13T10:30:09.942Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-03-13T10:30:10.021Z [Modules] No module updates available.
+2023-03-13T11:30:09.584Z [Modules] Checking for host updates.
+2023-03-13T11:30:09.876Z [Modules] Host is up to date.
+2023-03-13T11:30:09.877Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-03-13T11:30:09.966Z [Modules] No module updates available.
+2023-03-13T12:30:09.562Z [Modules] Checking for host updates.
+2023-03-13T12:30:09.833Z [Modules] Host is up to date.
+2023-03-13T12:30:09.833Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-03-13T12:30:09.917Z [Modules] No module updates available.
+2023-03-13T13:30:09.585Z [Modules] Checking for host updates.
+2023-03-13T13:30:09.842Z [Modules] Host is up to date.
+2023-03-13T13:30:09.842Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-03-13T13:30:09.922Z [Modules] No module updates available.
+2023-03-14T02:57:14.869Z [Modules] Checking for host updates.
+2023-03-14T02:57:15.121Z [Modules] Host is up to date.
+2023-03-14T02:57:15.121Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-03-14T02:57:15.204Z [Modules] No module updates available.
+2023-03-14T03:57:14.856Z [Modules] Checking for host updates.
+2023-03-14T03:57:15.109Z [Modules] Host is up to date.
+2023-03-14T03:57:15.109Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-03-14T03:57:15.190Z [Modules] No module updates available.
+2023-03-14T04:57:14.841Z [Modules] Checking for host updates.
+2023-03-14T04:57:15.092Z [Modules] Host is up to date.
+2023-03-14T04:57:15.092Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-03-14T04:57:15.169Z [Modules] No module updates available.
+2023-03-14T05:57:14.852Z [Modules] Checking for host updates.
+2023-03-14T05:57:15.094Z [Modules] Host is up to date.
+2023-03-14T05:57:15.094Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-03-14T05:57:15.170Z [Modules] No module updates available.
+2023-03-14T06:57:14.841Z [Modules] Checking for host updates.
+2023-03-14T06:57:15.082Z [Modules] Host is up to date.
+2023-03-14T06:57:15.082Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-03-14T06:57:15.157Z [Modules] No module updates available.

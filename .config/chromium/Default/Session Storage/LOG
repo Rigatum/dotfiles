@@ -1,0 +1,18 @@
+2023/03/14-15:59:29.171 3 Reusing MANIFEST /home/tagir/.config/chromium/Default/Session Storage/MANIFEST-000001
+2023/03/14-15:59:29.172 3 Recovering log #113
+2023/03/14-15:59:29.337 3 Reusing old log /home/tagir/.config/chromium/Default/Session Storage/000113.log 
+2023/03/14-16:05:33.258 3 Level-0 table #117: started
+2023/03/14-16:05:33.299 3 Level-0 table #117: 17121 bytes OK
+2023/03/14-16:05:33.325 3 Delete type=0 #113
+2023/03/14-16:05:33.326 3 Compacting 4@0 + 1@1 files
+2023/03/14-16:05:33.516 3 Generated table #118@0: 6442 keys, 125926 bytes
+2023/03/14-16:05:33.517 3 Compacted 4@0 + 1@1 files => 125926 bytes
+2023/03/14-16:05:33.597 3 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/03/14-16:05:33.599 3 Delete type=2 #117
+2023/03/14-16:05:33.599 3 Delete type=2 #109
+2023/03/14-16:05:33.599 3 Delete type=2 #111
+2023/03/14-16:05:33.599 3 Delete type=2 #114
+2023/03/14-16:05:33.599 3 Delete type=2 #107
+2023/03/14-17:31:12.067 3 Level-0 table #120: started
+2023/03/14-17:31:12.119 3 Level-0 table #120: 22827 bytes OK
+2023/03/14-17:31:12.169 3 Delete type=0 #116

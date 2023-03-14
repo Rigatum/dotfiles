@@ -1,0 +1,40 @@
+2023/03/14-14:47:06.000 3 Reusing MANIFEST /home/tagir/.config/chromium/Default/Local Storage/leveldb/MANIFEST-000001
+2023/03/14-14:47:06.284 3 Recovering log #320
+2023/03/14-14:47:06.486 3 Reusing old log /home/tagir/.config/chromium/Default/Local Storage/leveldb/000320.log 
+2023/03/14-14:47:35.689 5 Level-0 table #324: started
+2023/03/14-14:47:35.852 5 Level-0 table #324: 31327 bytes OK
+2023/03/14-14:47:36.081 5 Delete type=0 #320
+2023/03/14-14:47:36.082 5 Compacting 4@0 + 2@1 files
+2023/03/14-14:47:36.471 5 Generated table #325@0: 2233 keys, 2104650 bytes
+2023/03/14-14:47:36.562 5 Generated table #326@0: 326 keys, 845259 bytes
+2023/03/14-14:47:36.562 5 Compacted 4@0 + 2@1 files => 2949909 bytes
+2023/03/14-14:47:36.608 5 compacted to: files[ 0 2 1 0 0 0 0 ]
+2023/03/14-14:47:36.609 5 Delete type=2 #324
+2023/03/14-14:47:36.609 5 Delete type=2 #319
+2023/03/14-14:47:36.609 5 Delete type=2 #321
+2023/03/14-14:47:36.609 5 Delete type=2 #315
+2023/03/14-14:47:36.609 5 Delete type=2 #317
+2023/03/14-14:47:36.609 5 Delete type=2 #314
+2023/03/14-14:49:14.249 3 Level-0 table #328: started
+2023/03/14-14:49:14.273 3 Level-0 table #328: 35028 bytes OK
+2023/03/14-14:49:14.310 3 Delete type=0 #323
+2023/03/14-14:58:14.249 3 Level-0 table #330: started
+2023/03/14-14:58:14.296 3 Level-0 table #330: 36793 bytes OK
+2023/03/14-14:58:14.329 3 Delete type=0 #327
+2023/03/14-15:13:14.249 3 Level-0 table #332: started
+2023/03/14-15:13:14.303 3 Level-0 table #332: 37322 bytes OK
+2023/03/14-15:13:14.337 3 Delete type=0 #329
+2023/03/14-15:54:31.921 3 Level-0 table #334: started
+2023/03/14-15:54:31.954 3 Level-0 table #334: 19772 bytes OK
+2023/03/14-15:54:31.991 3 Delete type=0 #331
+2023/03/14-15:54:31.991 3 Compacting 4@0 + 2@1 files
+2023/03/14-15:54:32.088 3 Generated table #335@0: 2307 keys, 2469931 bytes
+2023/03/14-15:54:32.130 3 Generated table #336@0: 286 keys, 468554 bytes
+2023/03/14-15:54:32.131 3 Compacted 4@0 + 2@1 files => 2938485 bytes
+2023/03/14-15:54:32.165 3 compacted to: files[ 0 2 1 0 0 0 0 ]
+2023/03/14-15:54:32.166 3 Delete type=2 #330
+2023/03/14-15:54:32.166 3 Delete type=2 #328
+2023/03/14-15:54:32.166 3 Delete type=2 #325
+2023/03/14-15:54:32.166 3 Delete type=2 #332
+2023/03/14-15:54:32.166 3 Delete type=2 #326
+2023/03/14-15:54:32.166 3 Delete type=2 #334

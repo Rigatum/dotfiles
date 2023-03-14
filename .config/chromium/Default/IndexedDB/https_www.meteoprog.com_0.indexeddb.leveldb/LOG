@@ -1,0 +1,6 @@
+2023/03/11-20:51:26.496 24a Creating DB /home/tagir/.config/chromium/Default/IndexedDB/https_www.meteoprog.com_0.indexeddb.leveldb since it was missing.
+2023/03/11-20:51:26.576 24a Reusing MANIFEST /home/tagir/.config/chromium/Default/IndexedDB/https_www.meteoprog.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/03/11-20:51:36.290 8ce5 Level-0 table #5: started
+2023/03/11-20:51:36.374 8ce5 Level-0 table #5: 1745 bytes OK
+2023/03/11-20:51:36.405 8ce5 Delete type=0 #3
+2023/03/11-20:51:36.405 24c Manual compaction at level-0 from (begin) .. (end); will stop at (end)

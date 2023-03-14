@@ -1,0 +1,6 @@
+2023/03/13-17:38:32.089 98a Creating DB /home/tagir/.config/chromium/Default/IndexedDB/https_bitbucket.org_0.indexeddb.leveldb since it was missing.
+2023/03/13-17:38:32.178 98a Reusing MANIFEST /home/tagir/.config/chromium/Default/IndexedDB/https_bitbucket.org_0.indexeddb.leveldb/MANIFEST-000001
+2023/03/13-17:38:35.796 18b29 Level-0 table #5: started
+2023/03/13-17:38:35.846 18b29 Level-0 table #5: 5243 bytes OK
+2023/03/13-17:38:35.874 18b29 Delete type=0 #3
+2023/03/13-17:38:35.874 18b29 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

@@ -1,0 +1,6 @@
+2023/03/12-19:35:42.719 3a7 Creating DB /home/tagir/.config/chromium/Default/IndexedDB/https_forum.manjaro.org_0.indexeddb.leveldb since it was missing.
+2023/03/12-19:35:42.880 3a7 Reusing MANIFEST /home/tagir/.config/chromium/Default/IndexedDB/https_forum.manjaro.org_0.indexeddb.leveldb/MANIFEST-000001
+2023/03/12-19:40:04.823 3a9 Level-0 table #5: started
+2023/03/12-19:40:04.865 3a9 Level-0 table #5: 66359 bytes OK
+2023/03/12-19:40:04.899 3a9 Delete type=0 #3
+2023/03/12-19:40:04.899 3a9 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

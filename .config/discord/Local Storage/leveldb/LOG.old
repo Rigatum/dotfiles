@@ -1,0 +1,5 @@
+2023/03/13-08:51:43.239 5c52 Creating DB /home/tagir/.config/discord/Local Storage/leveldb since it was missing.
+2023/03/13-08:51:43.482 5c52 Reusing MANIFEST /home/tagir/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2023/03/13-09:03:54.416 67da Level-0 table #5: started
+2023/03/13-09:03:54.488 67da Level-0 table #5: 1526754 bytes OK
+2023/03/13-09:03:54.523 67da Delete type=0 #3

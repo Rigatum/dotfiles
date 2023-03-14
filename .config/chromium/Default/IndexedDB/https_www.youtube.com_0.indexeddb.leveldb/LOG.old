@@ -1,0 +1,39 @@
+2023/03/14-14:47:14.988 2b5 Reusing MANIFEST /home/tagir/.config/chromium/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/03/14-14:47:14.988 2b5 Recovering log #176
+2023/03/14-14:47:15.996 2b5 Reusing old log /home/tagir/.config/chromium/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000176.log 
+2023/03/14-14:47:24.665 2a5 Level-0 table #181: started
+2023/03/14-14:47:24.744 2a5 Level-0 table #181: 1245165 bytes OK
+2023/03/14-14:47:24.846 2a5 Delete type=0 #176
+2023/03/14-14:47:38.852 2a7 Compacting 1@1 + 1@2 files
+2023/03/14-14:47:38.910 2a7 Generated table #182@1: 830 keys, 65468 bytes
+2023/03/14-14:47:38.910 2a7 Compacted 1@1 + 1@2 files => 65468 bytes
+2023/03/14-14:47:39.144 2a7 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/03/14-14:47:39.144 2a7 Delete type=2 #178
+2023/03/14-14:47:39.144 2a7 Delete type=2 #181
+2023/03/14-14:49:12.602 2a5 Level-0 table #184: started
+2023/03/14-14:49:12.675 2a5 Level-0 table #184: 982862 bytes OK
+2023/03/14-14:49:12.731 2a5 Delete type=0 #180
+2023/03/14-14:49:51.448 2a5 Compacting 1@1 + 1@2 files
+2023/03/14-14:49:51.507 2a5 Generated table #185@1: 840 keys, 72815 bytes
+2023/03/14-14:49:51.507 2a5 Compacted 1@1 + 1@2 files => 72815 bytes
+2023/03/14-14:49:51.562 2a5 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/03/14-14:49:51.562 2a5 Delete type=2 #184
+2023/03/14-14:49:51.562 2a5 Delete type=2 #182
+2023/03/14-15:19:31.213 3032 Level-0 table #187: started
+2023/03/14-15:19:31.279 3032 Level-0 table #187: 1061958 bytes OK
+2023/03/14-15:19:31.316 3032 Delete type=0 #183
+2023/03/14-15:23:58.135 3032 Compacting 1@1 + 1@2 files
+2023/03/14-15:23:58.212 3032 Generated table #188@1: 905 keys, 54586 bytes
+2023/03/14-15:23:58.212 3032 Compacted 1@1 + 1@2 files => 54586 bytes
+2023/03/14-15:23:58.246 3032 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/03/14-15:23:58.246 3032 Delete type=2 #187
+2023/03/14-15:23:58.246 3032 Delete type=2 #185
+2023/03/14-15:52:52.391 3032 Level-0 table #190: started
+2023/03/14-15:52:52.475 3032 Level-0 table #190: 1139030 bytes OK
+2023/03/14-15:52:52.545 3032 Delete type=0 #186
+2023/03/14-15:52:52.876 3032 Compacting 1@1 + 1@2 files
+2023/03/14-15:52:52.937 3032 Generated table #191@1: 924 keys, 69915 bytes
+2023/03/14-15:52:52.937 3032 Compacted 1@1 + 1@2 files => 69915 bytes
+2023/03/14-15:52:53.038 3032 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/03/14-15:52:53.038 3032 Delete type=2 #188
+2023/03/14-15:52:53.038 3032 Delete type=2 #190

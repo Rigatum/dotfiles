@@ -1,0 +1,7 @@
+2023/03/11-21:22:02.983 24a Reusing MANIFEST /home/tagir/.config/chromium/Default/IndexedDB/https_www.reddit.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/03/11-21:22:02.983 24a Recovering log #3
+2023/03/11-21:22:02.983 24a Reusing old log /home/tagir/.config/chromium/Default/IndexedDB/https_www.reddit.com_0.indexeddb.leveldb/000003.log 
+2023/03/11-21:24:10.354 b205 Level-0 table #5: started
+2023/03/11-21:24:10.407 b205 Level-0 table #5: 17487 bytes OK
+2023/03/11-21:24:10.431 b205 Delete type=0 #3
+2023/03/11-21:24:10.431 24a Manual compaction at level-0 from (begin) .. (end); will stop at (end)

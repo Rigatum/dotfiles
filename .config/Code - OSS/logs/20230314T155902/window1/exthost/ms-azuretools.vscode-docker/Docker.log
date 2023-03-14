@@ -1,0 +1,29 @@
+2023-03-14 15:59:11.659 [error] Cannot connect to the Docker daemon at unix:///var/run/docker.sock. Is the docker daemon running?
+
+2023-03-14 15:59:11.660 [error] Cannot connect to the Docker daemon at unix:///var/run/docker.sock. Is the docker daemon running?
+
+2023-03-14 15:59:11.660 [error] Cannot connect to the Docker daemon at unix:///var/run/docker.sock. Is the docker daemon running?
+
+2023-03-14 15:59:11.686 [error] Cannot connect to the Docker daemon at unix:///var/run/docker.sock. Is the docker daemon running?
+
+2023-03-14 15:59:11.701 [error] Cannot connect to the Docker daemon at unix:///var/run/docker.sock. Is the docker daemon running?
+
+2023-03-14 15:59:11.702 [error] Failed to set up event listener: Cannot connect to the Docker daemon at unix:///var/run/docker.sock. Is the docker daemon running?
+2023-03-14 16:00:11.477 [error] Cannot connect to the Docker daemon at unix:///var/run/docker.sock. Is the docker daemon running?
+
+2023-03-14 16:00:11.496 [error] Cannot connect to the Docker daemon at unix:///var/run/docker.sock. Is the docker daemon running?
+
+2023-03-14 16:01:11.405 [error] Cannot connect to the Docker daemon at unix:///var/run/docker.sock. Is the docker daemon running?
+
+2023-03-14 16:01:11.409 [error] Cannot connect to the Docker daemon at unix:///var/run/docker.sock. Is the docker daemon running?
+
+2023-03-14 16:02:11.407 [error] Cannot connect to the Docker daemon at unix:///var/run/docker.sock. Is the docker daemon running?
+
+2023-03-14 16:02:11.427 [error] Cannot connect to the Docker daemon at unix:///var/run/docker.sock. Is the docker daemon running?
+
+2023-03-14 16:03:11.397 [error] Cannot connect to the Docker daemon at unix:///var/run/docker.sock. Is the docker daemon running?
+
+2023-03-14 16:03:11.402 [error] Cannot connect to the Docker daemon at unix:///var/run/docker.sock. Is the docker daemon running?
+
+2023-03-14 16:11:36.754 [error] Error response from daemon: Container c67e915b53db1a3032fce85230555f9743c1bea3551b733e2bec89591e8fb2bf is not running
+

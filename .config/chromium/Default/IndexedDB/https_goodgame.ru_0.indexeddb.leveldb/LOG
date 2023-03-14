@@ -1,0 +1,7 @@
+2023/03/13-08:21:19.307 3811 Reusing MANIFEST /home/tagir/.config/chromium/Default/IndexedDB/https_goodgame.ru_0.indexeddb.leveldb/MANIFEST-000001
+2023/03/13-08:21:19.308 3811 Recovering log #3
+2023/03/13-08:21:19.308 3811 Reusing old log /home/tagir/.config/chromium/Default/IndexedDB/https_goodgame.ru_0.indexeddb.leveldb/000003.log 
+2023/03/13-08:21:22.636 3811 Level-0 table #5: started
+2023/03/13-08:21:22.678 3811 Level-0 table #5: 1331 bytes OK
+2023/03/13-08:21:22.712 3811 Delete type=0 #3
+2023/03/13-08:21:22.713 3811 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

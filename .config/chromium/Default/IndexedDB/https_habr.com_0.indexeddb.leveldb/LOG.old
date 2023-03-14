@@ -1,0 +1,6 @@
+2023/03/12-12:37:02.413 1d80 Creating DB /home/tagir/.config/chromium/Default/IndexedDB/https_habr.com_0.indexeddb.leveldb since it was missing.
+2023/03/12-12:37:02.613 1d80 Reusing MANIFEST /home/tagir/.config/chromium/Default/IndexedDB/https_habr.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/03/12-12:38:04.702 1d80 Level-0 table #5: started
+2023/03/12-12:38:04.736 1d80 Level-0 table #5: 1000 bytes OK
+2023/03/12-12:38:04.764 1d80 Delete type=0 #3
+2023/03/12-12:38:04.764 1d80 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

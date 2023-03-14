@@ -1,0 +1,10 @@
+2023/03/14-17:13:19.431 4b3 Creating DB /home/tagir/.config/chromium/Default/IndexedDB/https_mangaplus.shueisha.co.jp_0.indexeddb.leveldb since it was missing.
+2023/03/14-17:13:19.499 4b3 Reusing MANIFEST /home/tagir/.config/chromium/Default/IndexedDB/https_mangaplus.shueisha.co.jp_0.indexeddb.leveldb/MANIFEST-000001
+2023/03/14-17:13:19.600 5ebe Level-0 table #5: started
+2023/03/14-17:13:19.634 5ebe Level-0 table #5: 635 bytes OK
+2023/03/14-17:13:19.663 5ebe Delete type=0 #3
+2023/03/14-17:13:19.664 4b3 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
+2023/03/14-17:13:19.786 5ebe Level-0 table #7: started
+2023/03/14-17:13:19.811 5ebe Level-0 table #7: 626 bytes OK
+2023/03/14-17:13:19.839 5ebe Delete type=0 #4
+2023/03/14-17:13:19.839 5e8c Manual compaction at level-0 from '\x00\x02\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x03\x00\x00\x00' @ 0 : 0; will stop at (end)

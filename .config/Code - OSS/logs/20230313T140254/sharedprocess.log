@@ -1,0 +1,7 @@
+2023-03-13 14:02:56.083 [info] Starting worker process with pid 29996 (type: fileWatcher, window: 1).
+2023-03-13 17:15:46.890 [info] Getting Manifest... ms-azuretools.vscode-docker
+2023-03-13 17:15:47.519 [info] Installing extension: ms-azuretools.vscode-docker
+2023-03-13 17:16:09.917 [info] Extracted extension to /home/tagir/.vscode-oss/extensions/.39a8f77d-bb5e-4655-af57-3f0a5bb480db: ms-azuretools.vscode-docker
+2023-03-13 17:16:09.972 [info] Renamed to /home/tagir/.vscode-oss/extensions/ms-azuretools.vscode-docker-1.24.0-universal
+2023-03-13 17:16:09.978 [info] Extracting extension completed. ms-azuretools.vscode-docker
+2023-03-13 17:16:10.038 [info] Extension installed successfully: ms-azuretools.vscode-docker

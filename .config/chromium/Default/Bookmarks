@@ -1,0 +1,47 @@
+{
+   "checksum": "554470c1213bacda7431510e87af15be",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13323246160761596",
+            "date_last_used": "0",
+            "guid": "b6698d08-21c4-48c1-b75c-220f22676410",
+            "id": "8",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "How to Store Dotfiles - A Bare Git Repository | Atlassian Git Tutorial",
+            "type": "url",
+            "url": "https://www.atlassian.com/git/tutorials/dotfiles"
+         } ],
+         "date_added": "13323089696877344",
+         "date_last_used": "0",
+         "date_modified": "13323246160761596",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13323089696877347",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13323089696877349",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}
